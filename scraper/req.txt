@@ -1,0 +1,7 @@
+Requirements
+============
+
+0) set up a user
+1) a function given a url, should fetch the html page at that url
+2) a function should detect a re-direct and save that information
+3) a function should make a record of the cookies loaded with a page
